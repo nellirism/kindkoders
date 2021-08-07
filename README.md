@@ -70,11 +70,11 @@ To get more info on how to use Modal (React) in a project please visit this webs
 
 > This folder contains SASS (css extention)
 
-## Deployement
+## Deployment
 
 ![](github/aws.png)
 
-- For my Portfolio application I used Amazon Web Services (AWS) [S3 bucket and Route 53]. I also purchased a domain (lloydmarcelino.com) via Go Daddy.
+- For my Portfolio application I used Amazon Web Services (AWS) [S3 bucket and Route 53]. I also purchased a domain (nell-ewebsite.com) via Go Daddy.
 
 ![](github/godaddy.png)
 
