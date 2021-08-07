@@ -1,6 +1,4 @@
-# Portfolio-React
-
-![](github/samplePic.PNG)
+# Kind Koder Super Version
 
 - This is my professional portfolio using React.
 
@@ -15,25 +13,6 @@
 - [License](#License)
 
 # General Info
-
-### Public
-
-- This folder contains the **index.html**, **css**, and **images**. I modified the tab icon by uploading my own icon and changing the code on index.html and manifest.json
-
-![](github/tabicon.PNG)
-
-```bash
-<link rel="shortcut icon" href="%PUBLIC_URL%/lloyd.ico" />
-```
-
-```bash
- "icons": [
-    {
-      "src": "lloyd.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-```
 
 ### Componets
 
@@ -229,15 +208,7 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 # Demo
 
-- Go to https://lloydmarcelino.com
-
 # Author
 
-- Lloyd Marcelino
-- github: https://github.com/ethanlloyd21
-- website: lloydmarcelino.com
-- email: lloydmarcelino@gmail.com
-
-# License
-
-- see MIT License Copyright (c) 2020
+- Nell-e
+- github: https://github.com/nellirism
