@@ -10,7 +10,6 @@
 - [Technologies](#Technologies)
 - [Demo](#Demo)
 - [Author](#Author)
-- [License](#License)
 
 # General Info
 
