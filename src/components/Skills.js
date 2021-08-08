@@ -1,11 +1,10 @@
-import React from 'react';
-import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
-import 'react-circular-progressbar/dist/styles.css';
+import React from "react";
+import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
+import "react-circular-progressbar/dist/styles.css";
 import VisibilitySensor from "react-visibility-sensor";
-import './Modal/Modal.css';
+import "./Modal/Modal.css";
 
 const Skills = (props) => {
-
   const data = props.portfolioData;
   let skillList;
   skillList = data.skills.map((s, i) => (
@@ -23,10 +22,12 @@ const Skills = (props) => {
                   text={`${percentage}%`}
                   className="site-skill__canvas"
                   styles={buildStyles({
-                    // Text size
-                    textSize: '2rem',
-                    // How long animation takes to go from one percentage to another, in seconds
+                    textColor: "green",
+                    pathColor: "black",
+                    trailColor: "gold",
+                    textSize: "2rem",
                     pathTransitionDuration: 1,
+                    strokeLinecap: "butt",
                   })}
                 />
               );
@@ -42,20 +43,23 @@ const Skills = (props) => {
     <section className="site-section" id="skills">
       <div className="container">
         <div className="site-section__icon">
-          <svg xmlns="http://www.w3.org/2000/svg" width="33" height="7" viewBox="0 0 73.94 14.19">
-            <polyline points="2.83 2.83 11.36 11.36 19.9 2.83 28.43 11.36 36.97 2.83 45.5 11.36 54.04 2.83 62.58 11.36 71.11 2.83" style={{ strokeDashoffset: "2e-05", strokeDasharray: "none" }}></polyline>
-          </svg>
+          {/* <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="33"
+            height="7"
+            viewBox="0 0 73.94 14.19"
+          >
+            <polyline
+              points="2.83 2.83 11.36 11.36 19.9 2.83 28.43 11.36 36.97 2.83 45.5 11.36 54.04 2.83 62.58 11.36 71.11 2.83"
+              style={{ strokeDashoffset: "2e-05", strokeDasharray: "none" }}
+            ></polyline>
+          </svg> */}
         </div>
-        <h1 className="site-heading"> Skills  </h1>
-        <div className="row">
-
-          {skillList}
-
-        </div>
+        <h1 className="site-heading"> My Skills </h1>
+        <div className="row">{skillList}</div>
       </div>
     </section>
-
-  )
-}
+  );
+};
 
 export default Skills;

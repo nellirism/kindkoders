@@ -8,7 +8,7 @@ const About = (props) => {
         <div className="site-section__icon">
           <hr className="progress"></hr>
         </div>
-        <h1 className="site-heading"> About </h1>
+        <h1 className="site-heading"> My Story </h1>
         <div className="cols">
           <b>A Genuine Smile Is Human Nature.</b>
           <p>

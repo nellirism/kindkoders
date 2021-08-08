@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="site-footer site-footer--with-clipmask">
-      <div className="site-footer__quote">"I am gald to see you here"</div>
+      <div className="site-footer__quote">"I am glad to see you here"</div>
       <div className="site-social">
         <div className="site-social__list">
           <a href="" className="site-social__link">

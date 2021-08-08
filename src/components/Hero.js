@@ -1,5 +1,4 @@
 import React from "react";
-//import introLogo from '../lloyd.png'
 import Particles from "react-particles-js";
 
 const Hero = (props) => {
@@ -57,17 +56,18 @@ const Hero = (props) => {
         <div className="site-intro__wrapper">
           <div className="site-intro__main">
             <div className="site-intro__intro">
-              <h2 className="site-intro__name"> My name is {data.name}! </h2>
-              <h2 className="site-intro__heading"> I'm a {data.role} </h2>
+              <h2 className="site-intro__name"> Hello! I am {data.name}. </h2>
+              <br />
+              <h2 className="site-intro__heading"> I am a {data.role} </h2>
               <h1 className="site-intro__primary"> {data.intro} </h1>
               <div className="site-intro__action">
                 <a
                   className="btn btn-outline-white btn-radius btn-lg"
-                  href="https://ethanlloyd21.github.io/resume/"
+                  href="https://www.linkedin.com/in/arnel-mateo-medina-b22298101/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Resume
+                  LinkedIn Profile
                 </a>
               </div>
             </div>

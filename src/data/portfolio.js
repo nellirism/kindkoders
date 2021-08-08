@@ -3,8 +3,8 @@ const portfolioData = {
   logo: "images/app-logo.svg",
   logoWhite: "images/app-logo-white.svg",
   name: "Nell-e",
-  role: "Full-Stack Developer / Cyber Security Profressional",
-  intro: "based in San Jose, CA",
+  role: "Full-Stack Developer and a Cyber Security Professional",
+  intro: "Welcome to my Portfolio!",
   projects: [
     {
       id: 0,
