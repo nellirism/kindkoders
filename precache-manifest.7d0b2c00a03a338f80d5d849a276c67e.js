@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae812a35d30abdc795ac10607a188269",
+    "revision": "d842a0eb3b511a9a368533fa364301a7",
     "url": "/kindkoders/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kindkoders/static/css/2.bd39f990.chunk.css"
   },
   {
-    "revision": "6bd32c837cffc91726ab",
-    "url": "/kindkoders/static/css/main.00192b4c.chunk.css"
+    "revision": "5e1952d42d00266db464",
+    "url": "/kindkoders/static/css/main.fa434b3c.chunk.css"
   },
   {
     "revision": "9c54e38e0d3bd772061e",
     "url": "/kindkoders/static/js/2.e0bb53ac.chunk.js"
   },
   {
-    "revision": "6bd32c837cffc91726ab",
+    "revision": "5e1952d42d00266db464",
     "url": "/kindkoders/static/js/main.1dbb392f.chunk.js"
   },
   {
