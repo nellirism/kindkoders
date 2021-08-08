@@ -105,7 +105,7 @@
 }
 
 .site-intro {
-  background-image: linear-gradient(120deg, #54573b, #446458);   
+  background-image: linear-gradient(120deg, #383a29, #446458);
   height: 95vh;
   color: #fff;
 
@@ -434,7 +434,8 @@
   }
 
   &--with-background {
-    background-color: $color-primary;
+    // background-color: $color-primary;
+    background-image: linear-gradient(120deg, #383a29, #446458);
   }
 
   &__icon {
@@ -597,9 +598,6 @@
     margin: 1rem 0;
   }
 
-  &__form-group {
-  }
-
   &__label {
     display: block;
     font-size: 1.7rem;
@@ -648,7 +646,7 @@
 
 .site-footer {
   padding: 10rem 0 3rem 0;
-  background-color: $color-primary;
+  background-image: linear-gradient(120deg, #383a29, #446458);
 
   &--with-clipmask {
     clip-path: polygon(30% 0, 69% 0, 100% 16%, 100% 100%, 0 100%, 0 14%);

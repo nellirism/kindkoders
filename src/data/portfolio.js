@@ -123,23 +123,23 @@ const portfolioData = {
     },
     {
       name: "React",
-      percentage: 95,
+      percentage: 90,
     },
     {
       name: "Node.js / Express",
-      percentage: 85,
+      percentage: 95,
     },
     {
       name: "MongoDB",
-      percentage: 85,
+      percentage: 95,
     },
     {
       name: "AWS",
-      percentage: 80,
+      percentage: 850,
     },
     {
       name: "Azure",
-      percentage: 95,
+      percentage: 90,
     },
     {
       name: "Linux / Windows / Mac",
@@ -151,14 +151,14 @@ const portfolioData = {
     },
     {
       name: "Metasploit",
-      percentage: 85,
+      percentage: 95,
     },
     {
       name: "Governance, Risk and Compliance",
-      percentage: 85,
+      percentage: 95,
     },
     {
-      name: "Auditing",
+      name: "Audit",
       percentage: 95,
     },
   ],
@@ -167,26 +167,37 @@ const portfolioData = {
     {
       title: "Senior Software Engineer at Gapinc",
       date: "May 2021",
-      description: "Nell-e is amazing!",
+      description:
+        "Nell-e is amazing! I have only worked with him for 6 months but his contribution to the entire internal security team is phenomenal.",
       company: "Saoirse Caoimhe Ronan",
     },
     {
       title: "Software Developer at Moss Adams",
       date: "May 2021",
-      description: "Nell-e is kind and a wonderful human being",
+      description:
+        "Nell-e is kind and a wonderful human being. He is always fun to work with. He provided guidance to those who are new to the company. He is always willing to help.",
       company: "Jack Sparrogush",
     },
     {
       title: "Data Analyst at Mateo Kind",
       date: "June 2021",
       company: "Natasha Lovowitz",
-      description: "Nell-e never ceases to amuse and make me laugh",
+      description:
+        "Nell-e never ceases to amuse and make me laugh. I had an opportunity to work with him on a project and we had a blast!",
     },
     {
       title: "Cyber Engineer at Lolabuy Consulting",
       date: "May 2021",
       company: "Aisling McDonnell",
-      description: "He is a work of art.",
+      description:
+        "I would not have a great internship experience in the consulting field if not for his guidance and friendhsip. Nell-e tends to acknowledge everyone around him and knows how to make people feel comfortable. ",
+    },
+    {
+      title: "Ambassador at BuildOn",
+      date: "August 2021",
+      company: "Raymond Ruiz",
+      description:
+        "Nell-e and I were both ambassadors to BuildOn where we were given an opportunity to reach out to two remote communities in West Africa. Nell-e's compassion for others is remarkable and just his genuine concern to others is something you don't see everyday. He is easy to be friends with and I have learned a lot from him through this endeavor.",
     },
   ],
 };

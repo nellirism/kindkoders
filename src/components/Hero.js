@@ -22,8 +22,8 @@ const Hero = (props) => {
               opacity: 0.02,
             },
             move: {
-              direction: "right",
-              speed: 0.05,
+              direction: "left",
+              speed: 0.55,
             },
             size: {
               value: 1,
@@ -32,7 +32,7 @@ const Hero = (props) => {
               anim: {
                 enable: true,
                 speed: 1,
-                opacity_min: 0.05,
+                opacity_min: 0.5,
               },
             },
           },

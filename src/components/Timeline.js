@@ -14,7 +14,10 @@ const Timeline = (props) => {
         {/* </div> */}
         {/* <div className="stepper__info"> */}
         <div className="stepper__body">
-          <h3 className="stepper__title"> {exp.company}  ({exp.title})</h3>
+          <h3 className="stepper__title">
+            {" "}
+            {exp.company} ({exp.title})
+          </h3>
           {/* <h4 className="stepper__title1"> {exp.title} </h4> */}
           <div className="stepper__sub"> {exp.description} </div>
         </div>
