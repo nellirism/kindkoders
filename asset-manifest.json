@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kindkoders/static/css/main.20c84c83.chunk.css",
-    "main.js": "/kindkoders/static/js/main.7147c0a5.chunk.js",
-    "main.js.map": "/kindkoders/static/js/main.7147c0a5.chunk.js.map",
+    "main.css": "/kindkoders/static/css/main.00192b4c.chunk.css",
+    "main.js": "/kindkoders/static/js/main.1dbb392f.chunk.js",
+    "main.js.map": "/kindkoders/static/js/main.1dbb392f.chunk.js.map",
     "runtime~main.js": "/kindkoders/static/js/runtime~main.0ab0bcb9.js",
     "runtime~main.js.map": "/kindkoders/static/js/runtime~main.0ab0bcb9.js.map",
     "static/css/2.bd39f990.chunk.css": "/kindkoders/static/css/2.bd39f990.chunk.css",
     "static/js/2.e0bb53ac.chunk.js": "/kindkoders/static/js/2.e0bb53ac.chunk.js",
     "static/js/2.e0bb53ac.chunk.js.map": "/kindkoders/static/js/2.e0bb53ac.chunk.js.map",
     "index.html": "/kindkoders/index.html",
-    "precache-manifest.c0d84b95181ed870a09a2314c50c84d2.js": "/kindkoders/precache-manifest.c0d84b95181ed870a09a2314c50c84d2.js",
+    "precache-manifest.f6cd6bc9b3bbd20855aa14f14d6254fb.js": "/kindkoders/precache-manifest.f6cd6bc9b3bbd20855aa14f14d6254fb.js",
     "service-worker.js": "/kindkoders/service-worker.js",
     "static/css/2.bd39f990.chunk.css.map": "/kindkoders/static/css/2.bd39f990.chunk.css.map",
-    "static/css/main.20c84c83.chunk.css.map": "/kindkoders/static/css/main.20c84c83.chunk.css.map"
+    "static/css/main.00192b4c.chunk.css.map": "/kindkoders/static/css/main.00192b4c.chunk.css.map"
   }
 }

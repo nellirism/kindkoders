@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kindkoders/precache-manifest.c0d84b95181ed870a09a2314c50c84d2.js"
+  "/kindkoders/precache-manifest.f6cd6bc9b3bbd20855aa14f14d6254fb.js"
 );
 
 self.addEventListener('message', (event) => {
