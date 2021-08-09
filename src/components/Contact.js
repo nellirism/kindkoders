@@ -3,6 +3,7 @@ import axios from "axios";
 import { Formik } from "formik";
 import * as Yup from "yup";
 import "./Modal/Modal.css";
+require("dotenv").config();
 
 class Contact extends Component {
   constructor(props) {
@@ -19,7 +20,7 @@ class Contact extends Component {
       isSending: true,
     });
     axios
-      .post("https://formcarry.com/s/pDNgV7JpwdC5", values, {
+      .post("https://formcarry.com/s/cGFD6XZIjak", values, {
         headers: { Accept: "application/json" },
       })
       .then((response) => {
@@ -42,7 +43,8 @@ class Contact extends Component {
           <div className="site-section__icon">
             <hr className="progress"></hr>
           </div>
-          <h1 className="site-heading"> Contact Me </h1><br/>
+          <h1 className="site-heading"> Contact Me </h1>
+          <br />
           <Formik
             className="site-form"
             initialValues={{
