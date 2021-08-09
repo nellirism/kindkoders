@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc0d620a4e035e09de3b1086893df82c",
+    "revision": "c4ea47fdac29ef891751e4540fbd4d04",
     "url": "/kindkoders/index.html"
   },
   {
-    "revision": "9c54e38e0d3bd772061e",
+    "revision": "2e1f40126ffbf6dc417b",
     "url": "/kindkoders/static/css/2.bd39f990.chunk.css"
   },
   {
-    "revision": "0c2b646ff53ef40c5d88",
+    "revision": "b93ceda6097e2a1d6f95",
     "url": "/kindkoders/static/css/main.600c85ef.chunk.css"
   },
   {
-    "revision": "9c54e38e0d3bd772061e",
-    "url": "/kindkoders/static/js/2.e0bb53ac.chunk.js"
+    "revision": "2e1f40126ffbf6dc417b",
+    "url": "/kindkoders/static/js/2.068fa66d.chunk.js"
   },
   {
-    "revision": "0c2b646ff53ef40c5d88",
-    "url": "/kindkoders/static/js/main.afe23e71.chunk.js"
+    "revision": "b93ceda6097e2a1d6f95",
+    "url": "/kindkoders/static/js/main.9d44d4f9.chunk.js"
   },
   {
     "revision": "1889ea456385419043c1",
