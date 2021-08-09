@@ -12,6 +12,14 @@
 		outline: none;
 	}
 
+	&:hover {
+      color: $color-second;
+    }
+
+    &--active {
+      color: $color-second;
+    }
+
 	&:disabled {
 	 opacity: 0.65; 
  	 cursor: not-allowed;

@@ -91,11 +91,11 @@
     color: inherit;
 
     &:hover {
-      color: $color-primary;
+      color: $color-second;
     }
 
     &--active {
-      color: $color-primary;
+      color: $color-second;
     }
   }
 }
@@ -105,7 +105,7 @@
 }
 
 .site-intro {
-  background-image: linear-gradient(120deg, #383a29, #446458);
+  background-image: $color-intro;
   height: 95vh;
   color: #fff;
 
@@ -435,7 +435,8 @@
 
   &--with-background {
     // background-color: $color-primary;
-    background-image: linear-gradient(120deg, #383a29, #446458);
+    // background-image: linear-gradient(120deg, #383a29, #638d94);
+    background-image: $color-intro;
   }
 
   &__icon {
@@ -646,7 +647,8 @@
 
 .site-footer {
   padding: 10rem 0 3rem 0;
-  background-image: linear-gradient(120deg, #383a29, #446458);
+  // background-image: linear-gradient(120deg, #383a29, #638d94);
+  background-image: $color-intro;
 
   &--with-clipmask {
     clip-path: polygon(30% 0, 69% 0, 100% 16%, 100% 100%, 0 100%, 0 14%);

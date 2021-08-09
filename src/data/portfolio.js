@@ -142,15 +142,15 @@ const portfolioData = {
       percentage: 90,
     },
     {
-      name: "Linux / Windows / Mac",
+      name: "Vulnerability Assessment",
       percentage: 95,
     },
     {
       name: "Project Management",
-      percentage: 95,
+      percentage: 100,
     },
     {
-      name: "Metasploit",
+      name: "Penetration Testing",
       percentage: 95,
     },
     {
@@ -158,7 +158,7 @@ const portfolioData = {
       percentage: 95,
     },
     {
-      name: "Audit",
+      name: "Audit & Reporting",
       percentage: 95,
     },
   ],
