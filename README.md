@@ -1,4 +1,4 @@
-# Kind Koder Super Version
+# Kindkoders ("s" is for Super :)
 
 - Being a web developer means being part of a community. I needed a place to share my projects not only when I am applying for a job or working as a freelancer but also so that I can share my work with fellow developers and collaborate on future projects.
 
@@ -109,7 +109,10 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 - React
 - Reactstrap (Bootstrap for React)
 
+# Demo
+
+https://user-images.githubusercontent.com/71202250/128661686-cbcbcfd9-3c06-432e-bf59-8d138dfed2e0.mp4
+
 # Author
 
 - Nell-e
-- github: https://github.com/nellirism
