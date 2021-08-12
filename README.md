@@ -111,6 +111,9 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 # Demo
 
+Follow this link to see the deployed application:
+   - https://nellirism.github.io/kindkoders/
+
 https://user-images.githubusercontent.com/71202250/128661686-cbcbcfd9-3c06-432e-bf59-8d138dfed2e0.mp4
 
 # Author
