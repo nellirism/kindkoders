@@ -9,7 +9,7 @@ const portfolioData = {
     {
       id: 0,
       title: "Run Buddy",
-      imageUrl: "images/portfolio/runbuddy.jpg",
+      imageUrl: "images/portfolio/runbuddy.png",
       link: "https://nellirism.github.io/runbuddy/",
       codeLink: "https://github.com/nellirism/runbuddy",
       description: "Health & Fitness",
@@ -19,7 +19,7 @@ const portfolioData = {
     {
       id: 1,
       title: "Horiseon Social Media & Marketing Website",
-      imageUrl: "images/portfolio/horiseon.jpg",
+      imageUrl: "images/portfolio/horiseon.png",
       link: "https://nellirism.github.io/cerebreo-code/",
       codeLink: "https://github.com/nellirism/cerebreo-code",
       description: "Social Media & Marketing",
@@ -39,7 +39,7 @@ const portfolioData = {
     {
       id: 3,
       title: "Project Aqua Nauticus",
-      imageUrl: "images/portfolio/pan.jpg",
+      imageUrl: "images/portfolio/pan.png",
       link: "https://patricklago21.github.io/ucberk-project-1/",
       codeLink: "https://github.com/patricklago21/ucberk-project-1",
       description: "PAN Marine Health Information",
@@ -56,7 +56,7 @@ const portfolioData = {
     {
       id: 4,
       title: "Stenographist Note Taker",
-      imageUrl: "images/portfolio/stenographist.jpg",
+      imageUrl: "images/portfolio/stenographist.png",
       link: "https://nelle898steno.herokuapp.com/",
       codeLink: "https://github.com/nellirism/stenographist",
       description: "Basic Note Taker",
@@ -84,7 +84,7 @@ const portfolioData = {
     {
       id: 6,
       title: "Alloculator Budget Tracker",
-      imageUrl: "images/portfolio/alloculator.jpg",
+      imageUrl: "images/portfolio/alloculator.png",
       link: "https://alloculator.herokuapp.com/",
       codeLink: "https://github.com/nellirism/alloculator",
       description: "Budget Tracker PWA",
@@ -94,7 +94,7 @@ const portfolioData = {
     {
       id: 7,
       title: "Shopparedux",
-      imageUrl: "images/portfolio/shoppa.jpg",
+      imageUrl: "images/portfolio/shoppa.png",
       link: "",
       codeLink: "",
       description: "Shop-shop with Redux",
