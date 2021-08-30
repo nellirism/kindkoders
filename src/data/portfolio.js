@@ -104,7 +104,7 @@ const portfolioData = {
     {
       id: 8,
       title: "URU",
-      imageUrl: "images/portfolio/uru.jpg",
+      imageUrl: "images/portfolio/uru.png",
       link: "https://shopparedux.herokuapp.com/",
       codeLink: "https://github.com/nellirism/shopparedux",
       description: "React Shop Redux State",
