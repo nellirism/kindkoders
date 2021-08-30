@@ -73,7 +73,11 @@ const Hero = (props) => {
             </div>
           </div>
           <div className="site-intro__logo-wrapper">
-            <img src="" alt="" className="site-intro__logo" />
+            <img
+              src="../public/images/elifant.jpg"
+              alt=""
+              className="site-intro__logo"
+            />
           </div>
         </div>
       </div>
